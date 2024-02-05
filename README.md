@@ -1,3 +1,5 @@
+**WIP!
+
 First, generate the client library. Ensure that your FastAPI server is running so you can grab the schema:
 
 ``` bash
